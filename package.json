@@ -4,17 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jjobe5989/Note-Taker.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jjobe5989/Note-Taker/issues"
-  },
-  "homepage": "https://github.com/jjobe5989/Note-Taker#readme"
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
