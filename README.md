@@ -21,10 +21,9 @@ This application is used for creating simple Notes list that can be saved using 
 This is a screenshot of my project:
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/24994854/211449634-96cc29da-2400-458b-92ae-e62d2a4a83a9.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/24994854/217986414-75836abd-cc84-46af-833b-b1cb1c83894d.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/24994854/217986403-dee55440-3519-4e5a-97c7-1b76aa29b6aa.png)
 
-![Screenshot (35)](https://user-images.githubusercontent.com/24994854/211449656-5354cb61-0249-4a0b-a0b0-15393969e3db.png)
-
-![Screenshot (36)](https://user-images.githubusercontent.com/24994854/211449666-de0cbba2-696b-4a5c-ada6-7700ded7089f.png)
 
 
 
